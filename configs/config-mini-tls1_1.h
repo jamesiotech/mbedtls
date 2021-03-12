@@ -96,7 +96,7 @@
 #define MBEDTLS_PEM_PARSE_C
 
 /* For testing with compat.sh */
-#define MBEDTLS_FS_IO
+//#define MBEDTLS_FS_IO
 
 #include "mbedtls/check_config.h"
 
